@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo(a) ao meu perfil. 👋
+# Olá, seja bem-vindo(a) ao meu perfil. 🦇
 
 - 😄 Tenho 16 anos
 - 💻 Atualmente estou cursando Desenvolvimento de Sistemas
