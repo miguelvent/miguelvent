@@ -1,5 +1,4 @@
 ### Olá, seja bem-vindo(a) ao meu perfil. 👋
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCMuEM5PS-uaeUAY3KR-atBg)
 
 - 😄 Tenho 16 anos
 - 💻 Atualmente estou cursando Desenvolvimento de Sistemas
