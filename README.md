@@ -1,6 +1,5 @@
-<video src="video/https://github.com/miguelvent/miguelvent/blob/main/mylivewallpapers.com-Pet-Bird.mp4" type="video/mp4">
-<video src="video/https://github.com/miguelvent/miguelvent/blob/main/mylivewallpapers.com-Pet-Bird.mp4" type="video/webm">
-  <video src="video/https://github.com/miguelvent/miguelvent/blob/main/mylivewallpapers.com-Pet-Bird.mp4" type="video/ogg"> </video> </video> </video>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhd-wallpaper.wiki%2Flive-wallpaper%2Fgif-live-wallpaper%2F2%2F&psig=AOvVaw28gfshTycBs2U1G76HW_N2&ust=1653008244787000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDA8uat6vcCFQAAAAAdAAAAABAM">
+
 # Olá, seja bem-vindo(a) ao meu perfil. ✌
 
 - 😄 Tenho 16 anos
@@ -38,7 +37,7 @@
   <img align="center" alt="Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/puCBi3nabCQAAAAC/the-batman-robert-pattinson.gif">
+  <img align="right" alt="R" height="150" style="border-radius:50px;" src="https://c.tenor.com/puCBi3nabCQAAAAC/the-batman-robert-pattinson.gif">
 </div>
 
 ##
