@@ -1,6 +1,5 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhd-wallpaper.wiki%2Flive-wallpaper%2Fgif-live-wallpaper%2F2%2F&psig=AOvVaw28gfshTycBs2U1G76HW_N2&ust=1653008244787000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCIDA8uat6vcCFQAAAAAdAAAAABAM">
-
 # Olá, seja bem-vindo(a) ao meu perfil. ✌
+<img src="https://hd-wallpaper.wiki/wp-content/uploads/2022/02/how-to-make-a-gif-a-live-wallpaper-iphone.gif">
 
 - 😄 Tenho 16 anos
 - 💻 Atualmente estou cursando Desenvolvimento de Sistemas
