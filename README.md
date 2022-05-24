@@ -24,7 +24,7 @@
 - O brabo, <a href="https://github.com/pedrojesus44">Pedro</a>.
 - O gênio, <a href="https://github.com/LucasSouzaBorges">Lucas</a>.
 - O chave, <a href="https://github.com/nicolas-oliiveira">Nicolas</a>.
-- O gato, <a href="https://github.com/renatinho">Renato</a>.
+- O gato, <a href="https://github.com/renatinhoo">Renato</a>.
 
 ## 
 
