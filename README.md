@@ -21,9 +21,9 @@
   
 #### Meus amigos! 💕
   
-- <a href="https://github.com/pedrojesus44">Pedro</a>
-- <a href="https://github.com/LucasSouzaBorges">Lucas</a>
-- <a href="https://github.com/nicolas-oliiveira">Nicolas</a>
+- O brabo, <a href="https://github.com/pedrojesus44">Pedro</a>.
+- O gênio, <a href="https://github.com/LucasSouzaBorges">Lucas</a>.
+- O chave, <a href="https://github.com/nicolas-oliiveira">Nicolas</a>.
 
 ## 
 
