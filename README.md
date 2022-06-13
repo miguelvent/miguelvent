@@ -42,7 +42,6 @@
 
 ##
 
-<img src="https://c.tenor.com/nSxnW-FhHX4AAAAC/stranger-things-baseball-bat.gif">
                                                                        
 <div>
 <a href="https://github.com/miguelvent">
