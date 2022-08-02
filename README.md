@@ -3,7 +3,8 @@
 
 - 👤 Tenho 16 anos
 - 💻 Atualmente estou cursando Desenvolvimento de Sistemas
-- 💬 Sei bastante da língua inglesa e estou iniciando com o Francês
+- 🎬 Estou estudando bastante sobre cinema, fotografia, direção de arte, cinematografia e etc.
+- 💬 Sei bastante da língua inglesa e estou iniciando com o francês
 - 📞 Se quiser souber mais, entre em contato!
 
 ##
