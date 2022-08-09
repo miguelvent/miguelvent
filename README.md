@@ -14,6 +14,7 @@
 - O brabo, <a href="https://github.com/pedrojesus44">Pedro</a>.
 - O gênio, <a href="https://github.com/LucasSouzaBorges">Lucas</a>.
 - O chave, <a href="https://github.com/nicolas-oliiveira">Nicolas</a>.
+- Meu <a href="https://pt.wikipedia.org/wiki/Jesus">Mano</a>
 
 ## 
                                           
