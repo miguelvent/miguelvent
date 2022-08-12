@@ -8,14 +8,6 @@
 - 📞 Se quiser souber mais, entre em contato!
 
 ##
-  
-#### Meus parceiros de estudo! 
-  
-- O brabo, <a href="https://github.com/pedrojesus44">Pedro</a>.
-- O gênio, <a href="https://github.com/LucasSouzaBorges">Lucas</a>.
-- O chave, <a href="https://github.com/nicolas-oliiveira">Nicolas</a>.
-
-## 
                                           
 <div align="center">
 <a href="https://github.com/miguelvent">
