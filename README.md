@@ -1,10 +1,10 @@
-# Olá, seja bem-vindo(a) ao meu perfil. ✌
+# Hi, welcome to my profile ☕
 
-- 👤 Tenho 16 anos
-- 💻 Atualmente estou cursando Desenvolvimento de Sistemas
-- 🎬 Estou estudando bastante sobre cinema, fotografia, direção de arte, cinematografia e etc.
-- 💬 Sei bastante da língua inglesa e estou iniciando com o francês
-- 📞 Se quiser souber mais, entre em contato!
+- 👤 16 years old
+- 💻 Currently studying Systems Development
+- 🎬 I'm studying a lot about cinema, photography, art direction, cinematography and and so forth
+- 💬 I know a lot about the English language and I'm starting to learn French
+- 📞 If you want to know more about me, get in touch!
 
 ##
                                           
