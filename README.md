@@ -1,6 +1,6 @@
 # Hi, welcome to my profile ☕
 
-- 👤 16 years old
+- 👤 17 years old
 - 💻 Currently studying Systems Development
 - 🎬 I'm studying a lot about cinema, photography, art direction, cinematography and so forth
 - 💬 I know a lot about the English language and I'm starting to learn French
