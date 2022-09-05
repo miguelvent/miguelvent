@@ -10,7 +10,6 @@
 - 💬 I know a lot about the English language and I'm starting to learn French
 - 📞 If you want to know more about me, get in touch!
 
-##
                                           
 <div align="center">
 <a href="https://github.com/miguelvent">
