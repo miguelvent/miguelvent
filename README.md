@@ -9,6 +9,9 @@
 - 🎬 I'm studying a lot about cinema, photography, art direction, cinematography and so forth
 - 💬 I know a lot about the English language and I'm starting to learn French
 - 📞 If you want to know more about me, get in touch!
+- sou teiro
+- gosto de jogar jogos
+- semibissexual
 
                                           
 <div align="center">
