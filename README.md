@@ -9,11 +9,7 @@
 - 🎬 I'm studying a lot about cinema, photography, art direction, cinematography and so forth
 - 💬 I know a lot about the English language and I'm starting to learn French
 - 📞 If you want to know more about me, get in touch!
-- sou teiro
-- gosto de jogar jogos
-- semibissexual
-
-                                          
+                                      
 <div align="center">
 <a href="https://github.com/miguelvent">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvent&layout=compact&langs_count=7&theme=gotham">
