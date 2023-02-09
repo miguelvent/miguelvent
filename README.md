@@ -8,7 +8,7 @@
 - 💻 Currently studying Systems Development
 - 🎬 I'm studying a lot about cinema, photography, art direction, cinematography and so forth
 - 💬 I know a lot about the English language and I'm starting to learn French
-- 📞 If you want to know more about me, get in touch!
+- 📞 If you want to know more about me,<a href="migueldkj@gmail.com"> get in touch!</a>
                                       
 <div align="center">
 <a href="https://github.com/miguelvent">
