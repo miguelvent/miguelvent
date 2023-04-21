@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96fbd5&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d7dfa&height=120&section=header"/>
 <div align="center">
 
 # Hi, welcome to my profile ☕
@@ -12,8 +12,8 @@
                                       
 <div align="center">
 <a href="https://github.com/miguelvent">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvent&layout=compact&langs_count=7&theme=gotham">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelvent&show_icons=true&theme=gotham&include_all_commits=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelvent&layout=compact&langs_count=7&theme=tokyonight">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=miguelvent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
 </div>
   <div align="center">
   <div style="display: inline_block"><br>
@@ -38,7 +38,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=miguelvent)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miguelvent&bg_color=96fbd57&color=96fbd5&line=96fbd5&point=96fbd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miguelvent&bg_color=96fbd57&color=b8d9cd&line=b8d9cd&point=96fbd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=96fbd5&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d7dfa&height=120&section=footer"/>
