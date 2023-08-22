@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d7dfa&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4d3da&height=120&section=header"/>
 <div align="center">
 
 # Hi, welcome to my profile ☕
@@ -39,4 +39,4 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=miguelvent&bg_color=96fbd57&color=b8d9cd&line=b8d9cd&point=96fbd5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8d7dfa&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d4d3da&height=120&section=footer"/>
